@@ -29,16 +29,16 @@ SQL: For data querying and manipulation.
 7. Results Interpretation: Analyze model outputs, interpret feature importance, and present findings to inform business decisions.
 
 ## Results:
-Data Collection & Exploration: Collected and cleaned SpaceX launch data, exploring features like launch site, payload, booster version, and landing outcomes.
-Predictive Modeling: Built and tested four models — Logistic Regression, SVM, Decision Tree, and KNN — to predict landing success.
-Model Evaluation: Used cross-validation and performance metrics (accuracy, confusion matrices). The Decision Tree model outperformed the others.
-Visualization: Created visualizations to reveal feature relationships, aiding in understanding the key factors driving success.
+1. Data Collection & Exploration: Collected and cleaned SpaceX launch data, exploring features like launch site, payload, booster version, and landing outcomes.
+2. Predictive Modeling: Built and tested four models — Logistic Regression, SVM, Decision Tree, and KNN — to predict landing success.
+3. Model Evaluation: Used cross-validation and performance metrics (accuracy, confusion matrices). The Decision Tree model outperformed the others.
+4. Visualization: Created visualizations to reveal feature relationships, aiding in understanding the key factors driving success.
 
 ## Insights:
-Key Success Factors: Payload mass, launch site, booster version, and orbit type significantly influence landing outcomes.
-Model Performance: The Decision Tree model was the most accurate, making it the best choice for predicting success.
-Trends Over Time: Success rates improved over the years, showcasing SpaceX’s technological advancements.
-Landing Patterns: Analyzing landing outcomes highlights the unique challenges of different landing techniques and locations.
+1. Key Success Factors: Payload mass, launch site, booster version, and orbit type significantly influence landing outcomes.
+2. Model Performance: The Decision Tree model was the most accurate, making it the best choice for predicting success.
+3. Trends Over Time: Success rates improved over the years, showcasing SpaceX’s technological advancements.
+4. Landing Patterns: Analyzing landing outcomes highlights the unique challenges of different landing techniques and locations.
 
 ## Conclusion
 This project demonstrates the powerful intersection of data science and aerospace engineering. By leveraging historical launch data and predictive modeling, we created a tool that empowers companies to compete more effectively in the commercial space industry. With accurate landing predictions, startups can make smarter financial decisions, mitigate launch risks, and challenge industry leaders like SpaceX with confidence.
